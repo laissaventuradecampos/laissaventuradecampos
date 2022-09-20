@@ -1,7 +1,7 @@
-- 👋 Hi, I’m laissa ventura de campos
-- 👀 interesse em estudar 
-- 🌱 estor aprendendo progamação
-- 💞️ quero concluir meu curso 
-- 📫laissa.campos@escola.pr.gov.br
+- :cherries:Hi, I’m laissa ventura de campos
+-  rainbow:interesse em estudar 
+- :snake: 	 estor aprendendo progamação
+-  tornado:quero concluir meu curso 
+- peach:laissa.campos@escola.pr.gov.br
 
 <!---
